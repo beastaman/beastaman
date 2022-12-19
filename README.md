@@ -1,7 +1,7 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD15C&center=true&vCenter=true&height=20&lines=hi%2C+nvan.ha+here)][website]
-# I'm a Web Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4700F7&background=00FFD200&width=435&lines=Hi%2C+Beast+Aman+Here...)](https://git.io/typing-svg)
+# I'm a Front End Web Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
   
 </div>
 
@@ -9,7 +9,7 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; Introduction:
 
-- 🌱 I’m currently learning Can Tho University
+- 🌱 I’m currently working as Frontend Developer
 - 🤔 I’m looking for help with other content creators
 - 📫 How to reach me: ✨ _[my web][website]_ ✨
 - ⚡ Fun fact: I love to play guitar and cook
@@ -18,7 +18,8 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)][tiktok]
+[![dev](https://img.shields.io/badge/Dev-%23000000.svg?style=for-the-badge&logo=Dev&logoColor=white)][dev]
+[![medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)][medium]
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)][codepen]
 
 ### 🖥 &nbsp; Skills & Tools:
@@ -31,8 +32,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-[website]: https://nvanha.github.io/myweb
-[instagram]: https://www.instagram.com/_haa_nguyen
-[facebook]: https://www.facebook.com/nvh1120
-[codepen]: https://codepen.io/nvanha
-[tiktok]: https://www.tiktok.com/@nvan.ha
+[website]: https://beastaman.github.io/myweb
+[instagram]: https://www.instagram.com/mohd_aman_25/
+[facebook]: https://www.facebook.com/mohammedaman.nawaz.77
+[medium]: https://www.medium.com/mohammedamannawaz
+[codepen]: https://codepen.io/itsaman25
+[dev]: https://dev.to/beastaman25
