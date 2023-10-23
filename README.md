@@ -14,6 +14,10 @@
 - 📫 How to reach me: ✨ _[my web][website]_ ✨
 - ⚡ Fun fact: I love to play guitar and cook
 
+[![An image of @beastaman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/beastaman)](https://holopin.io/@beastaman)
+
+  
+
 ### 🧏‍♂️ &nbsp; Connect with me:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
