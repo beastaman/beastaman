@@ -1,7 +1,7 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4700F7&background=00FFD200&center=true&vCenter=true&width=435&lines=Hi%2C+Beast+Aman+Here...)](https://git.io/typing-svg)
-# I'm a Front End Web Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+# I'm a FullStack Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
   
 </div>
 
@@ -9,7 +9,7 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; Introduction:
 
-- 🌱 I’m currently working as Frontend Developer
+- 🌱 I’m currently working as Fullstack Developer
 - 🤔 I’m looking for help with other content creators
 - 📫 How to reach me: ✨ _[my web][website]_ ✨
 - ⚡ Fun fact: I love to play guitar and cook
