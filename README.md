@@ -36,7 +36,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-[website]: https://beastaman.github.io/myweb
+[website]: https://mohdaman-portfolio.vercel.app/
 [instagram]: https://www.instagram.com/mohd_aman_25/
 [facebook]: https://www.facebook.com/mohammedaman.nawaz.77
 [medium]: https://www.medium.com/mohammedamannawaz
